@@ -10,6 +10,7 @@ title: About
 ## About Machine Learning
 
 Prophet is an algorithm to go through lines of code and to automatically fix bugs in the code. I am following this project now.
+
 * [Prophet](http://groups.csail.mit.edu/pac/patchgen/)
 
 ## About iOS Development
@@ -17,6 +18,7 @@ Prophet is an algorithm to go through lines of code and to automatically fix bug
 As I mentioned at home page, I developed 4 universal iOS applications when I lived in my hometown, Shenzhen.
 
 You can download them on app Store.
+
 * [花果山](https://itunes.apple.com/cn/app/hua-guo-shan-xin-xian-shui/id999768503?mt=8)
 * [SimplyWork](https://itunes.apple.com/cn/app/si-weisimplywork-yi-zhan-shi/id1157420590?mt=8)
 * [极行客](https://itunes.apple.com/cn/app/ji-xing-ke-hu-wai-zhi-bo-jiu/id1175973691?mt=8)
