@@ -1,15 +1,14 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            ChenWenhong's Blog
+tagline:          'iOS Development, Machine Learning, Algorithm'
+description:      'I am a MSC student who study Advanced Computer Science at Cardiff University. In the past, I developed 4 universal iOS applications which can be downloaded on app store. Most of my experience is with Objective-C, Python and Swift. I enjoy learning Machine Learning and algorithm for leisure. Although I am still a beginner in these areas, I have strong and contiuous learning capability and adaptility.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -21,6 +20,7 @@ paginate:         5
 
 # Custom vars
 version:          2.1.0
+gems: [jekyll-paginate]
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/ChenWenhong

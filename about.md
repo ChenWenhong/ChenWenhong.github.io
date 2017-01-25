@@ -4,27 +4,27 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hello,everyone. Welcome to my blog. My name is Wenhong Chen and I am currently living at Cardiff, UK. Broadly speaking my interests focuses on iOS Development and Machine Learning. I am particularly interested in applications to the domain of automatic patch generation which developed by MIT.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## About Machine Learning
 
-There are currently two themes built on Poole:
+Prophet is an algorithm to go through lines of code and to automatically fix bugs in the code. I am following this project now.
+* [Prophet](http://groups.csail.mit.edu/pac/patchgen/)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## About iOS Development
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+As I mentioned at home page, I developed 4 universal iOS applications when I lived in my hometown, Shenzhen.
 
-## Setup
+You can download them on app Store.
+* [花果山](https://itunes.apple.com/cn/app/hua-guo-shan-xin-xian-shui/id999768503?mt=8)
+* [SimplyWork](https://itunes.apple.com/cn/app/si-weisimplywork-yi-zhan-shi/id1157420590?mt=8)
+* [极行客](https://itunes.apple.com/cn/app/ji-xing-ke-hu-wai-zhi-bo-jiu/id1175973691?mt=8)
+* [翔翔财富](https://itunes.apple.com/cn/app/xiang-xiang-cai-fu/id1019377463?mt=8)
 
-Some fun facts about the setup of this project include:
+Although it seems like that I have rich experience in iOS development, I think I am still a beginner. It is because that I still know little about iOS development in every aspects, Objective-C and Swift language, or CocoaTouch.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Summary
+However, it is not easy to make progress on these areas and I must study continuously and advance with the time.
 
 Thanks for reading!
