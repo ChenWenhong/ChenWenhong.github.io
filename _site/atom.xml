@@ -4,7 +4,7 @@
  <title>ChenWenhong's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-01-25T15:27:57+00:00</updated>
+ <updated>2017-01-25T15:44:40+00:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Hello World!</title>
-   <link href="http://localhost:4000/2017/01/25/Hello-World!/"/>
+   <link href="http://localhost:4000/normal/2017/01/25/Hello-World!/"/>
    <updated>2017-01-25T00:00:00+00:00</updated>
-   <id>http://localhost:4000/2017/01/25/Hello-World!</id>
+   <id>http://localhost:4000/normal/2017/01/25/Hello-World!</id>
    <content type="html">&lt;p&gt;As a second-language English speaker, it is difficult for me to write blog in English. I am appreciated that my father and mother support me study abroad so that I have the opportunity to communicate with native English speaker. Although I didn’t have a satisfactory result in university, I still found a good job when I graduated from school. I worked for a IT company as an iOS developer until I planned to study abroad with my girlfriend. I gained experience of software development from this job and developed a wide range of coding interests so I applied the major of Advance Computer Science with no hesitate.&lt;/p&gt;
 
 &lt;p&gt;After one semester, I become interested in Machine Learning and recognized that I have to devote into this with my utmost endeavor so that I can become familiar with this area.&lt;/p&gt;
